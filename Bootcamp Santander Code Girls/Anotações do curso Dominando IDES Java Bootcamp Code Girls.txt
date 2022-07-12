@@ -1,0 +1,10 @@
+** Link Download da IDE Intellij + Guia de instalação: https://www.jetbrains.com/help/idea/installation-guide.html#standalone
+
+** Link Download da IDE Eclipse: https://www.eclipse.org/downloads/
+
+Java é uma linguagem de programação orientada a objetos desenvolvida na década de 90, na empresa Sun Microsystems e posteriormente adquirida pela Oracle em 2008. Foi lançada em maio de 1995.
+
+A linguagem Java é compilada para um bytecode que é interpretado por uma máquina virtual (JVM).
+
+Edições da plataforma Java: Java SE (Java Platform, Standard Edition), Java EE (Java Platform, Enterprise Edition), Java ME (Java Platform, Micro Edition).
+

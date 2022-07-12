@@ -1,0 +1,12 @@
+** Raciocínio lógico é uma forma
+de pensamento estruturado, ou raciocínio,
+que permite encontrar a conclusão ou determinar a resolução
+de um problema.
+
+Pensamento computacional: processo de pensamento envolvido na expressão de soluções
+em passos computacionais ou algoritmos que podem ser
+implementados no computador.
+
+• Por que determinar padrões?
+Generelizar, com objetivo de obter
+resolução para problemas diferentes
